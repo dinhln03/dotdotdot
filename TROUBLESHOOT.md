@@ -38,4 +38,4 @@ Possible cause:
 - Havent figured out yet
 
 Possible Solution:
-- Run `apt install libpq-dev gcc` and then run `poetry add psycopg2` again.
+- Run `apt install libpq-dev gcc` and then run `poetry add psycopg2 && poetry install` 
